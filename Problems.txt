@@ -1,0 +1,4 @@
+1. Contains_duplicate - https://leetcode.com/problems/contains-duplicate-ii/
+2. Volleyball_ Friends - https://www.hackerrank.com/contests/sda-hw-8/challenges/volleyball-friends
+3. Count_number_of_bad_pairs - https://leetcode.com/problems/count-number-of-bad-pairs/
+4. Brand_new - https://www.hackerrank.com/contests/si-practice-7/challenges/brand-new
