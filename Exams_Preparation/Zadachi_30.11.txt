@@ -3,5 +3,5 @@
 3. https://leetcode.com/problems/odd-even-linked-list/
 4. https://leetcode.com/problems/baseball-game/
 5. https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
-6.   https://leetcode.com/problems/binary-tree-inorder-traversal/ 
+6. https://leetcode.com/problems/binary-tree-inorder-traversal/ 
 7. https://leetcode.com/problems/binary-tree-level-order-traversal/
