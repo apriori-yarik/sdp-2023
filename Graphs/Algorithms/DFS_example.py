@@ -7,7 +7,7 @@ graph = {
   '8' : []
 }
 
-visited = set() # Set to keep track of visited nodes of graph.
+visited = set() 
 
 def dfs(visited, graph, node):  #function for dfs
     if node not in visited:
