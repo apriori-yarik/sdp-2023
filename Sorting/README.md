@@ -2,4 +2,4 @@
 
 Задачи по алгоритми за сортиране - https://github.com/apriori-yarik/sdp-2023/blob/main/Sorting/Sorting_tasks.md
 
-(Изт.: https://github.com/TeogopK/Data_structures_and_algorithms_Data_analytics)
+(Изт.(само за материалите): https://github.com/TeogopK/Data_structures_and_algorithms_Data_analytics)
