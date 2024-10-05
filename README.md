@@ -11,7 +11,7 @@
 
 | 3 | Алгоритми за сортиране.| https://www.hackerrank.com/contests/sda-ad-hw-2-2023  
 
-| 4 | Алгоритми за търсене.|           
+| 4 | Алгоритми за търсене.| https://github.com/apriori-yarik/sdp-2023/tree/main/Searching           
 
 | 5 | Свързан списък.| https://github.com/apriori-yarik/sdp-2023/tree/main/LinkedList      
 
