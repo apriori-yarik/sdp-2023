@@ -1,3 +1,5 @@
-#Преговор по УП - 
-#Преговор по ООП -
-#############################(Изт.: https://github.com/Kaisiq/UP-Students)
+Преговор по УП - 
+
+Преговор по ООП -
+
+(Изт.: https://github.com/Kaisiq/UP-Students)
