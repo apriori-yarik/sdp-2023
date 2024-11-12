@@ -1,6 +1,6 @@
 Алгоритми за дървета - https://github.com/apriori-yarik/sdp-2023/tree/main/Tree/Algorithms
 
-Дървета - https://github.com/apriori-yarik/sdp-2023/tree/main/Tree/Tree
+Дървета - https://github.com/apriori-yarik/sdp-2023/tree/main/Tree/BST
 
 Балансирани дървета - https://github.com/apriori-yarik/sdp-2023/tree/main/Tree/BalancedTrees
 
