@@ -1,3 +1,4 @@
+# Стек и опашка
 Материали за стек и опашка - https://github.com/apriori-yarik/sdp-2023/blob/main/Stack-and-queue/StackQueue_materials.md
 
 Задачи за стек и опашка - https://github.com/apriori-yarik/sdp-2023/blob/main/Stack-and-queue/StackQueue_tasks.md
