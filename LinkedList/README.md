@@ -1,3 +1,4 @@
+# Свързан списък
 Материали за свързан списък - https://github.com/apriori-yarik/sdp-2023/blob/main/LinkedList/LinkedList_materials.md
 
 Задачи за свързан списък - https://github.com/apriori-yarik/sdp-2023/blob/main/LinkedList/LinkedList_tasks.md
