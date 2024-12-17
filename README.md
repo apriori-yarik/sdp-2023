@@ -28,7 +28,10 @@
 | 11 | Алгоритми за линейна оптимизация.|
 https://github.com/apriori-yarik/sdp-2023/tree/main/Linear_Optimization
 
-| 12 | Подготовка за изпит.| https://github.com/apriori-yarik/sdp-2023/tree/main/Exams_Preparation                                    
+| 12 | Алгоритми за обработка на големи данни.|
+https://github.com/apriori-yarik/sdp-2023/tree/main/Algorithms_BigData
+
+| 13 | Подготовка за изпит.| https://github.com/apriori-yarik/sdp-2023/tree/main/Exams_Preparation                                    
 
 
     
