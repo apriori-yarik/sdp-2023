@@ -1,3 +1,5 @@
+# Графи
+
 Алгоритми за графи (Обхождане в дълбочина и Dijkstra) - https://github.com/apriori-yarik/sdp-2023/tree/main/Graphs/Algorithms 
 
 Задачи - https://github.com/apriori-yarik/sdp-2023/blob/main/Graphs/Graphs_tasks.md 
